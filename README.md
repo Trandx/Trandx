@@ -14,13 +14,10 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Node.js, React-native, Mongo.db and software project management. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- ✨ As long as i have hands, i can code anything
+- 🌱 I like challenges
+- ❤ I really love programming
+- 💻 Visit my [Portfolio](https://essijunior-portfolio.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
