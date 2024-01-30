@@ -3,11 +3,11 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="./lion.jpg">
 </div>
 
 <!--Header Name-->
-# <img src="./lion.jpg" width="30"/> ɪ'ᴍ Essi Junior! 
+# ɪ'ᴍ Essi Junior! 
 *(Developer / Programmer) and software engineer*
 <br /> 
 
