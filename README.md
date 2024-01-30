@@ -1,5 +1,5 @@
 <!--Banner-->
-![EssiJunior Banner Image](./banner.png)
+![EssiJunior Banner Image](./Life.js.gif)
 
 <!--Night Owl image-->
 <div>
