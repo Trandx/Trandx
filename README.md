@@ -17,7 +17,7 @@
 - ✨ As long as i have hands, i can code anything
 - 🌱 I like challenges
 - ❤ I really love programming
-- 💻 Visit my [Portfolio](https://essijunior-portfolio.vercel.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://essijunior-portfolio.vercel.app/) for more details about my skills.
 <!--End Intro-->
 
 <p align="center">
