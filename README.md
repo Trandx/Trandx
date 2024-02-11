@@ -14,7 +14,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Node.js, React-native, Mongo.db and software project management. </p>
 
-- ✨ As long as i have hands, i can code anything
+- ✨ As long as i have hands, i can code anything.
 - 🌱 I like challenges
 - ❤ I really love programming
 - 💻 Visit my [Portfolio](https://essijunior-portfolio.vercel.app/) for more details about my skills.
