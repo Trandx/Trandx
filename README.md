@@ -66,24 +66,24 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandjonyves&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandjonyves&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandjonyves&theme=radical" alt="Al Mahdi's GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandjonyves&theme=radical" alt="Al Mahdi GitHub Contribution" />
 </p>
 
 <p align="center">
     <a href="https://github.com/sandjonyves">
-        <img alt="Sandjon Yves's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sandjonyves&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+        <img alt="Sandjon Yves Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sandjonyves&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
     <a href="https://github.com/sandjonyves">
-        <img alt="Sandjon Yves's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sandjonyves&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+        <img alt="Sandjon Yves Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sandjonyves&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandjonyves&custom_title=Essi%Junior's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Sandjon Yves's Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandjonyves&custom_title=Sandjon%Yves%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Sandjon Yves Graph" />
 </p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&&section=footer"/>
