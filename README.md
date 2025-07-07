@@ -1,5 +1,5 @@
 <!--Banner-->
-![sandjonyves Banner Image](./Life.js.gif)
+![Trandx Banner Image](./Life.js.gif)
 
 <!--Night Owl image-->
 <div>
@@ -7,17 +7,17 @@
 </div>
 
 <!--Header Name-->
-#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> ɪ'ᴍ Sandjon Yves! 
+#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> ɪ'ᴍ Trandx! 
 *(Developer / Programmer) and software engineer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Node.js, React-native, Mongo.db and software project management. </p>
+<p align="left">I am a Full-Stack Developer with a strong passion for NestJS, Vue.js, Laravel, and software project management.</p>
 
 - ✨ As long as i have hands, i can code anything.
 - 🌱 I like challenges
 - ❤ I really love programming
-- 💻 Visit my [Portfolio](https://sandjonyves.com) for more details about my skills.
+<!-- - 💻 Visit my [Portfolio](https://sandjonyves.com) for more details about my skills. -->
 <!--End Intro-->
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 <h3 align="center">
         <samp> Hey There!... I am
-                <b> Sandjon Yves <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
+                <b> Trandx <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
         </samp>
 </h3>
 
@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.instagram.com/sandjonyves_21" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="sandjonyves" />
+  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Trandx" />
  </a> 
   <a href="https://t.me/ESSI_Junior" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="Sandjon Yves"  />
+    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="Trandx"  />
   </a> 
 </p>
 <br />
